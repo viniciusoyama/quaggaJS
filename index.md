@@ -15,6 +15,7 @@ quaggaJS
 
 ## What is QuaggaJS?
 
+
 QuaggaJS is a barcode-scanner entirely written in JavaScript supporting real-
 time localization and decoding of various types of barcodes such as __EAN__,
 __CODE 128__, __CODE 39__, __EAN 8__, __UPC-A__, __UPC-C__, __I2of5__ and
