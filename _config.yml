@@ -2,7 +2,7 @@ name: QuaggaJS
 markdown: kramdown
 baseurl: /quaggaJS
 scheme: https://
-url: https://serratus.github.io
+url: https://viniciusoyama.github.io
 host: serratus.github.io
-
+encoding: UTF-8
 exclude: [node_modules]
