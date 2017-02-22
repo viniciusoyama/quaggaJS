@@ -6,7 +6,6 @@ showInMenu: true
 
 quaggaJS
 ========
-
 - [Changelog](#changelog) (2017-01-08)
 - [Browser Support](#browser-support)
 - [Installing](#installing)
